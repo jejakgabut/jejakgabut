@@ -642,7 +642,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby
 #EXTINF:-1 group-title="TV SPORTS",Stanta Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Turkmenistan Sport
+#EXTINF:-1 group-title="TV SPORTS",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="TV SPORTS",TNA Sport
