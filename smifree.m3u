@@ -651,6 +651,9 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="TV SPORTS",TNT Sport
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
+#EXTINF:-1 group-title="TV SPORTS",As USA SPORTS EPL
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
 
 
 
