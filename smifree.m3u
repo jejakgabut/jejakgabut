@@ -91,10 +91,8 @@ http://liveaneviadev.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1  tvg-name="TV ONE" tvg-id="" tvg-logo="https://i.imgur.com/klfdCep.jpg" group-title="TV NASIONAL" :http-referrer="",TV ONE
-http://liveaneviadev.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+
 #EXTINF:-1  tvg-name="TV ONE 2" tvg-id="" tvg-logo="https://i.imgur.com/klfdCep.jpg" group-title="TV NASIONAL" :http-referrer="",TV ONE 2
 #
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
