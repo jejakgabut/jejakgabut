@@ -42,13 +42,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Nasional",Indosiar 
-https://op-group1-swiftservesd-1.dens.tv/s/s04/01.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="Nasional",INDOSIAR 2
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-name="indosiar" tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png" group-title="Nasional",Indosiar 3
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar-avc1_1200000=4-mp4a_96000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Nasional",Indosiar 4
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -178,7 +181,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Nasional",Indonesiana TV
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://g20culture.indonesiana.tv/_nuxt/img/cover.6b9be5b.png" group-title="Nasional",Indonesiana TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
@@ -1406,25 +1409,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTick6oPQ0klTLyxVmDGXqlyNZvYKob5xdl1Wnyos2EZQ&s" group-title="Nasional",ANTV
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/antv720/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTick6oPQ0klTLyxVmDGXqlyNZvYKob5xdl1Wnyos2EZQ&s" group-title="Nasional",ANTV 1
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Nasional",ANTV 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTick6oPQ0klTLyxVmDGXqlyNZvYKob5xdl1Wnyos2EZQ&s" group-title="Nasional",ANTV 
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1280px-Antv_logo.svg.png" group-title="Nasional",ANTV 3
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTick6oPQ0klTLyxVmDGXqlyNZvYKob5xdl1Wnyos2EZQ&s" group-title="Nasional",ANTV 1
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sxlxwvA.png?v=1.1.1.1" group-title="Nasional",ANTV 4
-http://stb.mbahnunungonline.net/live/m3u8/id/b630a001384603f.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Nasional",ANTV 5
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Nasional",ANTV 6
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTick6oPQ0klTLyxVmDGXqlyNZvYKob5xdl1Wnyos2EZQ&s" group-title="Nasional",ANTV 2
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Nasional",Daai TV
