@@ -75,7 +75,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/uhO4k9iqRVaHjZeJXJ2KpRw_w-k=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1109173694_b744100_sleng.m3u8
@@ -1274,7 +1275,8 @@ https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Nasional",Daai TV
-https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
+#https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMlOdrlkDxT6ykFJGyXMSdkXzju2SNKG2wrI0tTxLjA&s" group-title="Nasional",Insert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
